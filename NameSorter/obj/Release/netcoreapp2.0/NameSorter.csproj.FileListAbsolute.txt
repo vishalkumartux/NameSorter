@@ -1,0 +1,10 @@
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Release\netcoreapp2.0\NameSorter.deps.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Release\netcoreapp2.0\NameSorter.runtimeconfig.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Release\netcoreapp2.0\NameSorter.runtimeconfig.dev.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Release\netcoreapp2.0\NameSorter.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Release\netcoreapp2.0\NameSorter.pdb
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Release\netcoreapp2.0\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Release\netcoreapp2.0\NameSorter.AssemblyInfoInputs.cache
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Release\netcoreapp2.0\NameSorter.AssemblyInfo.cs
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Release\netcoreapp2.0\NameSorter.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Release\netcoreapp2.0\NameSorter.pdb
