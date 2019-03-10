@@ -1,0 +1,11 @@
+c:\users\mishka\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.csproj.CoreCompileInputs.cache
+c:\users\mishka\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.AssemblyInfoInputs.cache
+c:\users\mishka\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.AssemblyInfo.cs
+c:\users\mishka\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\NameSorter.deps.json
+c:\users\mishka\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\NameSorter.runtimeconfig.json
+c:\users\mishka\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\NameSorter.runtimeconfig.dev.json
+c:\users\mishka\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\NameSorter.dll
+c:\users\mishka\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\NameSorter.pdb
+c:\users\mishka\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.dll
+c:\users\mishka\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.pdb
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\NameSorter.csprojResolveAssemblyReference.cache

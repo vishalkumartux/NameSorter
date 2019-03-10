@@ -1,0 +1,13 @@
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.exe
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.deps.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.runtimeconfig.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.runtimeconfig.dev.json
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\bin\Debug\netcoreapp2.0\win10-x64\NameSorter.pdb
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\win10-x64\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\win10-x64\NameSorter.AssemblyInfoInputs.cache
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\win10-x64\NameSorter.AssemblyInfo.cs
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\win10-x64\NameSorter.dll
+C:\Users\MISHKA\source\repos\NameSorter\NameSorter\obj\Debug\netcoreapp2.0\win10-x64\NameSorter.pdb
