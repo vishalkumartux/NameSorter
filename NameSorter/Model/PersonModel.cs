@@ -27,11 +27,22 @@ namespace NameSorter.Model
             LastName = this.GetLastName(fullName);
             
         }
+        /// <summary>
+        /// get last name of the given full name
+        /// </summary>
+        /// <param name="fullName"></param>
+        /// <returns></returns>
         private string GetLastName(string fullName)
         {
             var splitedNames = this.splitFullName(fullName);
             return splitedNames.Last();
         }
+
+        /// <summary>
+        /// get given name from a full name of the person
+        /// </summary>
+        /// <param name="fullName"></param>
+        /// <returns></returns>
         private List<string> GetGivenName(string  fullName)
         {
             var splitedNames = this.splitFullName(fullName);
@@ -39,11 +50,21 @@ namespace NameSorter.Model
             return splitedNames;
         }
 
+        /// <summary>
+        /// split given full name with separator
+        /// </summary>
+        /// <param name="fullName"></param>
+        /// <returns></returns>
         private List<string> splitFullName(string fullName)
         {
             return fullName.Split(Separator).ToList();
         }
 
+        /// <summary>
+        /// compareTo imepelmentation
+        /// </summary>
+        /// <param name="other"></param>
+        /// <returns> return 0 if equal , 1 if this person is greater than other,-1 otherwise</returns>
         public int CompareTo(PersonModel other)
         {
             int result = 0;

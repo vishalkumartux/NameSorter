@@ -1,0 +1,17 @@
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorterTestProject.deps.json
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorterTestProject.runtimeconfig.json
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorterTestProject.runtimeconfig.dev.json
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorterTestProject.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorterTestProject.pdb
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorter.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\bin\Debug\netcoreapp2.0\NameSorter.pdb
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.csprojResolveAssemblyReference.cache
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.csproj.CoreCompileInputs.cache
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.AssemblyInfoInputs.cache
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.AssemblyInfo.cs
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.csproj.CopyComplete
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.dll
+c:\users\mishka\source\repos\NameSorter\NameSorterTestProject\obj\Debug\netcoreapp2.0\NameSorterTestProject.pdb
