@@ -13,6 +13,8 @@ namespace NameSorter
         static void Main(string[] args)
         {
 
+            
+            
             //dependency injection
             var serviceProvider = new ServiceCollection()
                 .AddLogging()
@@ -25,15 +27,15 @@ namespace NameSorter
             //configure console logging
             serviceProvider
                 .GetService<ILoggerFactory>()
-                .AddConsole(LogLevel.Debug);
+                .AddConsole(LogLevel.Error);
 
-            var logger = serviceProvider.GetService<ILoggerFactory>()
-                .CreateLogger<Program>();
-            logger.LogDebug("Starting application");
+            //var logger = serviceProvider.GetService<ILoggerFactory>()
+            //    .CreateLogger<Program>();
+            //logger.LogDebug("Starting application");
 
             var app = serviceProvider.GetService<IApplication>();
             app.performSorting(args[0], @"./sorted-names-list.txt");
-                
+            serviceProvider.Dispose();
 
         }
     }

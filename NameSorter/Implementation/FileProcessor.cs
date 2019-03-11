@@ -1,4 +1,5 @@
-﻿using NameSorter.Interfaces;
+﻿using Microsoft.Extensions.Logging;
+using NameSorter.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -10,12 +11,25 @@ namespace NameSorter.Implementation
 {
     public class FileProcessor : IFileProcessorInterface
     {
+        private readonly ILogger<FileProcessor> _logger;
+        public FileProcessor(ILoggerFactory loggerFactory)
+        {
+            _logger = loggerFactory.CreateLogger<FileProcessor>();
+        }
         public List<string> ReadFile(string filePath)
         {
-            if (File.Exists(filePath))
-                return File.ReadAllLines(filePath).ToList();
-            else
-                return null;
+            try
+            {
+                if (File.Exists(filePath))
+                    return File.ReadAllLines(filePath).ToList();
+                else
+                    return null;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.Message);
+            }
+            return null;
         }
 
         public bool WriteFile(List<string> listOfString, string outputFilePath)
@@ -28,6 +42,7 @@ namespace NameSorter.Implementation
             }
             catch (Exception ex)
             {
+                _logger.LogError(ex.Message);
                 result = false;
             }
             return result;

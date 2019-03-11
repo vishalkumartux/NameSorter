@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorter", "NameSorter\NameSorter.csproj", "{43946996-CE22-4870-8622-796E461D539A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorterTestProject", "NameSorterTestProject\NameSorterTestProject.csproj", "{82E19456-82AA-416B-9B32-EF6FB4E0A452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{43946996-CE22-4870-8622-796E461D539A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43946996-CE22-4870-8622-796E461D539A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43946996-CE22-4870-8622-796E461D539A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E19456-82AA-416B-9B32-EF6FB4E0A452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E19456-82AA-416B-9B32-EF6FB4E0A452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E19456-82AA-416B-9B32-EF6FB4E0A452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E19456-82AA-416B-9B32-EF6FB4E0A452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
